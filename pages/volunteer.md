@@ -27,13 +27,17 @@ layout: page
   box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
 }
 </style>
+
 </head>
 <body>
 <div class="banner-text"><b>EVERYONE CAN CONTRIBUTE!</b></div> 
 <img src="/assets/img/volunteer.jpg" width="600" height="400" />
-<a href="https://forms.gle/w5wEDFGCNyUQNRAAA" target="_blank">
-<button class="button button2">Volunteer></a>
+<a href="https://forms.gle/w5wEDFGCNyUQNRAAA">
+<button class="button button2">Volunteer</button>
+</a>
 </body>
 </html>
+
+
 
 
