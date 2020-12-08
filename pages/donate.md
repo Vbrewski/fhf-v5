@@ -30,11 +30,11 @@ layout: "page"
     <title>Title of the document</title>
 </head>
 <div class="Banner">
-    <img src="/assets/img/helpus.jpg">
+    <img src="/assets/img/helpus.jpg"><br>
     <div class="banner-text">Help a Family in need.</div>
 </div>
 <body>
-<h1>Your Donations Make a Difference</h1>
+<h1>Your Donations Make a Difference</h1><br>
 <div class="container">
     <button class="button button2" type="submit" form="form1" formtarget="_blank" id="1">
         <h2>$5</h2>

@@ -6,7 +6,7 @@ layout: page
 <html>
 <head> 
 <meta charset="utf-8" /> 
-<title>Everyone can CONTRIBUTE!</title> 
+<title>Everyone can CONTRIBUTE!</title> <br><br>
 <style>
 .button {
   background-color: #4CAF50; /* Green */

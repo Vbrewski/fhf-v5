@@ -9,19 +9,15 @@ The pandemic has disrupted life for everyone, but it has had a particularly hars
 Our Mission: Support small businesses in our community and safely deliver nourishing meals to our children and neighbors who need them the most
 
 <article>
-   <h1>Why Should WE Donate?</h1>
+   <h1>Why Should I Donate?</h1>
 
-<ul>
-  <li>
+
     <p>Families are deeply affected from Covid-19</p>
-  </li>
-  <li>
+ 
     <p>There is not enough food for people to feed their families</p>
-  </li>
-  <li>
+ 
     <p>People need our support</p>
-  </li>
-</ul>
+ 
 
 </article>
 
