@@ -7,7 +7,7 @@ tags: [documentation,sample]
 image: Highland.jpg
 ---
 
-##The Need
+<h2>The Need</h2>
 The pandemic has disrupted life for everyone, but it has had a particularly harsh impact on our
 neighbors in need – many of whom were already struggling with access to healthy and nutritious
 meals. 
@@ -17,7 +17,7 @@ People have lost their jobs, schools have shut their doors and all of us have be
 constant fear of catching the virus. Life has forever changed in more ways than any of us can imagine
 today.
 
-##The Mission
+<h2>The Mission</h2>
 Although we wish we could solve everyone's problems, we recognize that is an impossible task. Instead, we
 aim to alleviate the stresses related to feeding our families. After all, no matter the size of your army,
 before you can go to battle, you first need breakfast
