@@ -4,7 +4,6 @@ layout: "page"
 
 <link href="/css/donation.css" rel="stylesheet">
 <form action="https://www.paypal.com/us/home" method="get" id="form1"></form>
-<!DOCTYPE html>
 <html>
 <head>
     <title>Title of the document</title>

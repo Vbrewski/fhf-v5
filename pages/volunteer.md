@@ -1,145 +1,42 @@
-<!doctype html>
-<html>
-<head>
-<style>
-  h1 {text-align: center;}
-  p {text-align: center;}
-  div {text-align: center;}
-</style>
-
-  <title>
-    
-      Volunteer 
-    
-  </title>
-
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta charset="utf-8">
-
-  <link rel="stylesheet" href="/assets/css/main.css">
-  <link rel="stylesheet" href="/assets/css/syntax.css">
-  
-
-
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto|Source+Code+Pro">
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.min.css">
-
-  
-
-  <!-- Google Analytics -->
-  <script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-  ga('create', 'UA-112060364-2', 'auto');
-  ga('send', 'pageview');
-</script>
-
-
-  <!-- Use Jekyll SEO plugin -->
-  <!-- Begin Jekyll SEO tag v2.6.1 -->
-<title>volunteer</title>
-<meta name="generator" content="Jekyll v3.6.3" />
-<meta property="og:title" content="volunteer" />
-<meta property="og:locale" content="en_US" />
-<link rel="canonical" href="http://localhost:4000/pages/volunteer.html" />
-<meta property="og:url" content="http://localhost:4000/pages/volunteer.html" />
-<script type="application/ld+json">
-{"url":"http://localhost:4000/pages/volunteer.html","headline":"volunteer","@type":"WebPage","@context":"https://schema.org"}</script>
-<!-- End Jekyll SEO tag -->
-
-
-</head>
-
-
-<body>
-
-<div class="container">
-  <header class="site-header">
-  <h3 class="site-title">
-    <a href="/"></a>
-  </h3>
-  <nav class="menu-list">
-    
-      <a href="/pages/about.html" class="menu-link">About</a>
-    
-      <a href="/pages/volunteer.html" class="menu-link">Volunteer</a>
-    
-      <a href="/pages/donate.html" class="menu-link">Donate</a>
-    
-
-    
-      <a href="https://www.facebook.com/Food4HighlandFamilies" class="menu-link" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a>
-    
-      <a href="mailto:food4highlandfamilies@gmail.com" class="menu-link" target="_blank"><i class="fa fa-envelope" aria-hidden="true"></i></a>
-    
-      <a href="feed.xml" class="menu-link" target="_blank"><i class="fa fa-rss-square" aria-hidden="true"></i></a>
-    
-  </nav>
-  <div class="dropdown">
-    <button class="dropbtn"><i class="fa fa-bars" aria-hidden="true"></i></button>
-    <div class="dropdown-content">
-      
-        <a href="/pages/about.html" class="menu-link">About</a>
-      
-        <a href="/pages/volunteer.html" class="menu-link">Volunteer</a>
-      
-        <a href="/pages/donate.html" class="menu-link">Donate</a>
-      
-
-      
-        <a href="https://www.facebook.com/Food4HighlandFamilies" class="menu-link" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a>
-      
-        <a href="mailto:food4highlandfamilies@gmail.com" class="menu-link" target="_blank"><i class="fa fa-envelope" aria-hidden="true"></i></a>
-      
-        <a href="feed.xml" class="menu-link" target="_blank"><i class="fa fa-rss-square" aria-hidden="true"></i></a>
-      
-    </div>
-  </div>
-</header>
-
-  <div class="posts-wrapper">
-    <div class="page-title">
-  <h1>
-    volunteer
-  </h1>
-</div>
-
-<article>
-  <p>&lt;!DOCTYPE html&gt;</p>
+---
+layout: page
+---
 <html>
 <head> 
 <meta charset="utf-8" /> 
-&lt;&lt;&lt;&lt;&lt;&lt;&lt; Updated upstream
-=======
-&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD
-<title></title> 
+<title>Everyone can CONTRIBUTE!</title> 
+<style>
+.button {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  -webkit-transition-duration: 0.4s; /* Safari */
+  transition-duration: 0.4s;
+}
+
+.button1 {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+
+.button2:hover {
+  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+}
+</style>
 </head>
-<div class="banner-text">Sign up to be a volunteer!</div> 
 <body>
-<img src="volunteer.jpg" weidth="400" height="341" />
+<div class="banner-text"><b>EVERYONE CAN CONTRIBUTE!</b></div> 
+<img src="/assets/img/volunteer.jpg" width="600" height="400" />
 <a href="https://forms.gle/w5wEDFGCNyUQNRAAA">
-&lt;input type=button value="sign up"&gt;
+<button class="button button2">Volunteer</button>
 </a>
 </body>
 </html>
 
-</article>
 
-  </div>
-  <footer class="footer">
-  
-    <a href="https://www.facebook.com/Food4HighlandFamilies" class="menu-link" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a>
-  
-    <a href="mailto:food4highlandfamilies@gmail.com" class="menu-link" target="_blank"><i class="fa fa-envelope" aria-hidden="true"></i></a>
-  
-  
-  <div class="post-date"><a href="/"> |  by </a></div>
-</footer>
-
-</div>
-
-</body>
-</html>
