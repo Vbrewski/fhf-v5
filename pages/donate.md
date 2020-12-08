@@ -22,7 +22,7 @@ layout: "page"
 }
 </style>
 
-<body style="background-color:powderblue;"> </body>
+<body style="background-color:#f8a689;"> </body>
 <link href="/css/donation.css" rel="stylesheet">
 <form action="https://www.gofundme.com/f/food4highlandfamilies/donate" method="get" id="form1"></form>
 <html>

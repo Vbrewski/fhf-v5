@@ -3,7 +3,7 @@ title: Questions or Concerns? Reach out!
 layout: misc
 ---
 
-<body style="background-color:powderblue;"> </body>
+<body style="background-color:#f8a689;"> </body>
 
 <div id="after_submit"></div>
 <form id="contact_form" action="#" method="POST" enctype="multipart/form-data">
