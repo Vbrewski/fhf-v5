@@ -25,3 +25,5 @@ layout: misc
     <input id="submit_button" type = "submit" value="Send email">
    
 </form>
+
+<br><br>F4HF is an Unincorporated Nonprofit Association which aims to support small businesses in the Highland, Maryland Community. Due to our unincorporated status, donations are NOT TAX DEDUCTABLE.
