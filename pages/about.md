@@ -21,10 +21,9 @@ Our Mission: Support small businesses in our community and safely deliver nouris
     <p>People need our support</p>
   </li>
   <li>
-    <p>So please show you care and donate below</p>
+    <p><b>So please show you care and donate below</b></p>
   </li>
 </ul>
 
 </article>
-
 
