@@ -20,7 +20,7 @@ today.
 ##The Mission
 Although we wish we could solve everyone's problems, we recognize that is an impossible task. Instead, we
 aim to alleviate the stresses related to feeding our families. After all, no matter the size of your army,
-before you can go to battle, you first need breakfast
+before you can go to battle, you first need breakfast.
 
 
 **Please support our mission in whatever way you can to keep our children happy and healthy!**
