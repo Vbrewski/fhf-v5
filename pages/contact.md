@@ -3,7 +3,7 @@ title: Questions or Concerns? Reach out!
 layout: misc
 ---
 
-<body style="background-color:powderblue;"> </body>
+<body style="background-color:#f8a689;"> </body>
 
 <div id="after_submit"></div>
 <form id="contact_form" action="#" method="POST" enctype="multipart/form-data">
@@ -25,3 +25,5 @@ layout: misc
     <input id="submit_button" type = "submit" value="Send email">
    
 </form>
+
+<br><br>F4HF is an Unincorporated Nonprofit Association which aims to support small businesses in the Highland, Maryland Community. Due to our unincorporated status, donations are NOT TAX DEDUCTABLE.
