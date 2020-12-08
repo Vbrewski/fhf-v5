@@ -1,7 +1,7 @@
 ---
 layout: "page"
 ---
-
+<body style="background-color:powderblue;"> </body>
 <link href="/css/donation.css" rel="stylesheet">
 <form action="https://www.paypal.com/us/home" method="get" id="form1"></form>
 <!DOCTYPE html>
