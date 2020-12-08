@@ -1,5 +1,5 @@
 ---
-title: volunteer
+title: VOLUNTEER
 layout: page
 ---
 <body style="background-color:powderblue;"> </body>
@@ -31,9 +31,8 @@ layout: page
 <body>
 <div class="banner-text"><b>EVERYONE CAN CONTRIBUTE!</b></div> 
 <img src="/assets/img/volunteer.jpg" width="600" height="400" />
-<a href="https://forms.gle/w5wEDFGCNyUQNRAAA">
-<button class="button button2">Volunteer</button>
-</a>
+<a href="https://forms.gle/w5wEDFGCNyUQNRAAA" target="_blank">
+<button class="button button2">Volunteer></a>
 </body>
 </html>
 

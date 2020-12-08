@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Our People"
+title: "Testimonials"
 author: "Group 6"
 categories: documentation
 tags: [documentation,sample]
