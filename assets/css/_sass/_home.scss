@@ -4,6 +4,7 @@
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
+  background-color: powderblue;
   position: relative;
 }
 .featured-posts h2 {
@@ -54,3 +55,5 @@
 .pagination-active:hover {
   background-color: #e0e0e0;
 }
+
+body {background-color: powderblue;}
