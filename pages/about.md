@@ -1,6 +1,6 @@
 ---
 layout: misc
-title: About 
+title: About FHF
 ---
 <body style="background-color:powderblue;"> </body>
 
@@ -9,7 +9,7 @@ The pandemic has disrupted life for everyone, but it has had a particularly hars
 Our Mission: Support small businesses in our community and safely deliver nourishing meals to our children and neighbors who need them the most
 
 <article>
-  <p>Why do we donate?</p>
+   <h1>Why Should WE Donate?</h1>
 
 <ul>
   <li>
