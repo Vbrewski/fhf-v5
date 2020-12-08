@@ -8,7 +8,7 @@ google-ID: 'UA-112060364-2'
 
 menu:
 - {name: 'About', folder: 'pages', file: 'about.html'}
-- {name: 'Volunteer', folder: 'pages', file: 'volunteer2.html'}
+- {name: 'Volunteer', folder: 'pages', file: 'volunteer.html'}
 - {name: 'Donate', folder: 'pages', file: 'donate2.html'}
 - {name: 'Contact Us', folder: 'pages', file: 'contact.html'}
 

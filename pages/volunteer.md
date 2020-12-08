@@ -1,6 +1,11 @@
 <!doctype html>
 <html>
 <head>
+<style>
+  h1 {text-align: center;}
+  p {text-align: center;}
+  div {text-align: center;}
+</style>
 
   <title>
     
@@ -13,19 +18,13 @@
 
   <link rel="stylesheet" href="/assets/css/main.css">
   <link rel="stylesheet" href="/assets/css/syntax.css">
-  <!-- Use Atom -->
-  <link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" />
-  <!-- RSS-v2.0
-  <link href="/rss-feed.xml" type="application/rss+xml" rel="alternate" title=" | "/>
-  //-->
+  
 
 
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto|Source+Code+Pro">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.min.css">
 
-  <script type="text/javascript" async
-    src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML">
-  </script>
+  
 
   <!-- Google Analytics -->
   <script>

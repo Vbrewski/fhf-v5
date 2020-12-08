@@ -14,8 +14,8 @@ sass:
   style: :nested
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           "Food for Highland Families"
-description:	       "a Jekyll theme for running a blog or publication"
+title:		         "Food for Highland Families"
+description:	     "A Software Engineering project for American University"
 author:              "Group 6"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
