@@ -6,7 +6,7 @@ layout: page
 <html>
 <head> 
 <meta charset="utf-8" /> 
-<title>Everyone can CONTRIBUTE!</title> <br><br>
+<title>Everyone can CONTRIBUTE!</title> <br>
 <style>
 .button {
   background-color: #4CAF50; /* Green */
@@ -22,7 +22,7 @@ layout: page
   -webkit-transition-duration: 0.4s; /* Safari */
   transition-duration: 0.4s;
 }
-
+<br>
 .button2:hover {
   box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
 }
